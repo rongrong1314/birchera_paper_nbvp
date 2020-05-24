@@ -1,0 +1,8 @@
+prefix=/home/zs/Github/bircher_nbv/devel
+
+Name: minkindr
+Description: Description of minkindr
+Version: 0.0.1
+Cflags: -I/home/zs/Github/bircher_nbv/src/nbvplanner/minkindr/minkindr/include
+Libs: -L${prefix}/lib 
+Requires: 

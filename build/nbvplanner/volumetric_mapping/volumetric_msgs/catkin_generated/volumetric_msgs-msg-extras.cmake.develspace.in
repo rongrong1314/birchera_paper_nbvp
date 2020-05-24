@@ -1,0 +1,2 @@
+set(volumetric_msgs_MESSAGE_FILES "")
+set(volumetric_msgs_SERVICE_FILES "/home/zs/Github/bircher_nbv/src/nbvplanner/volumetric_mapping/volumetric_msgs/srv/LoadMap.srv;/home/zs/Github/bircher_nbv/src/nbvplanner/volumetric_mapping/volumetric_msgs/srv/SaveMap.srv;/home/zs/Github/bircher_nbv/src/nbvplanner/volumetric_mapping/volumetric_msgs/srv/SetBoxOccupancy.srv;/home/zs/Github/bircher_nbv/src/nbvplanner/volumetric_mapping/volumetric_msgs/srv/SetDisplayBounds.srv")

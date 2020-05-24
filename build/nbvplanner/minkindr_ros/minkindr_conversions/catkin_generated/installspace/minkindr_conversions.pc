@@ -1,0 +1,8 @@
+prefix=/home/zs/Github/bircher_nbv/install
+
+Name: minkindr_conversions
+Description: Description of minkindr_conversions
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lminkindr_conversions
+Requires: eigen_conversions geometry_msgs glog_catkin minkindr tf tf_conversions

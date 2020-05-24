@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC   -shared -Wl,-soname,libkdtree.so -o /home/zs/Github/bircher_nbv/devel/lib/libkdtree.so CMakeFiles/kdtree.dir/src/kdtree.c.o 

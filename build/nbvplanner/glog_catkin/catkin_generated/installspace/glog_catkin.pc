@@ -1,0 +1,8 @@
+prefix=/home/zs/Github/bircher_nbv/install
+
+Name: glog_catkin
+Description: Description of glog_catkin
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lglog_catkin
+Requires: 

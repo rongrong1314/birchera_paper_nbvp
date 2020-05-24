@@ -1,0 +1,8 @@
+prefix=/home/zs/Github/bircher_nbv/devel
+
+Name: prune_pointcloud
+Description: Description of prune_pointcloud
+Version: 0.0.0
+Cflags: -I/home/zs/Github/bircher_nbv/src/nbvplanner/prune_pointcloud/include
+Libs: -L${prefix}/lib 
+Requires: 

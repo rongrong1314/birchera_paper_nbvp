@@ -1,0 +1,8 @@
+prefix=/home/zs/Github/bircher_nbv/devel
+
+Name: eigen_checks
+Description: Description of eigen_checks
+Version: 0.0.1
+Cflags: -I/home/zs/Github/bircher_nbv/src/nbvplanner/eigen_checks/include
+Libs: -L${prefix}/lib -leigen_checks
+Requires: 
